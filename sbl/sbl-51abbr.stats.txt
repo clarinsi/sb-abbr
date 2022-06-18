@@ -1,0 +1,48 @@
+Divs (persons):		51
+Sentences:		655
+Abbrevs with expans:	2041
+Abbrevs end.w.period:	1938	94.95%
+All tokens together:	22977
+Tokens (abbr stream):	20932	100%
+Abbrev tokens only:	2101	10.03%
+Tokens (expan stream):	20876	100%
+Expan tokens only:	2045	9.79%
+
+Multitoken abbrevs:
+B. - jevimi	Burgarjevimi
+B. - jev	Burgarjev
+C. - ove	Cigaletove
+E. - ov	Erbergov
+E. - a	Erberga
+E. - ovim	Erbergovim
+H. - jevimi	Heptnerjevimi
+H. - jevi	Heptnerjevi
+H. - ova	Hrovatova
+K. - a.	Kotnika
+K. - ev	Kušejev
+Lit. - Ztg.	Literaturzeitung
+L. - ovo	Lehmannovo
+P. - ovem	Potočnikovem
+P. - jevim	Pretnarjevim
+P. - ja	Pretnarja
+P. - om	Pucom
+P. - ova	Pucova
+P. - ovi	Pucovi
+Š - jem	Šeringerjem
+T - a	Tangiča
+T - eve	Tangičeve
+V - jevem	Vilerjevem
+V - evih	Vršajevih
+W - ova	Wolfova
+W - ova	Wolfova
+Z - ovo	Zeitovo
+Z - ovih	Zeitovih
+Z - ovih	Zeitovih
+Z - ov	Zeitov
+
+Multitoken expansions:
+Lj.	Ljubljani .
+ip.	in podobno
+ip.	in podobno
+lit.	literaturo .
+
